@@ -1,13 +1,12 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
+import MainPage from "./pages/MainPage";
 
-function App() {
-  return (
-    <div className="App">
-      <h1>Hallo</h1>
-    </div>
-  );
+export default function App() {
+  return(
+      <MainPage />
+  )
 }
 
-export default App;
+

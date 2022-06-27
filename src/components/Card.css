@@ -1,0 +1,11 @@
+.Card{
+    background-color: darkgrey;
+    border-radius: 37px;
+    min-width: 17%;
+    text-align: center;
+
+}
+
+ul{
+    list-style: none;
+}
