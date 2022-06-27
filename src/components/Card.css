@@ -3,9 +3,14 @@
     border-radius: 37px;
     min-width: 17%;
     text-align: center;
+    cursor: pointer;
 
 }
 
 ul{
     list-style: none;
+}
+
+img{
+    border-radius: 50%;
 }
